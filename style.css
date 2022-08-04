@@ -1,0 +1,126 @@
+.k1{
+        float: right;
+        width: 800px;
+        padding: 5px;
+    }
+    .k2{
+        float: right;
+        width: 800px;
+        padding: 5px;
+    }
+    .k3{
+        float: right;
+        width: 800px;
+        padding: 5px;
+    }
+    .k4{
+        float: right;
+        width: 800px;
+        padding: 5px;
+    }
+button{
+       background-color:#add;
+       border: none;
+       color: black;
+       padding: 10px 20px;
+       text-align: center;
+       text-decoration: none;
+       display: inline-block;
+       margin: 4px 2px;
+       cursor: pointer;
+       border-radius: 16px;
+   }
+   .con{
+    width: 120%;
+    padding: 2px;
+   }
+   .img{
+    border-radius: 50%;
+    float: left;
+    width: 150px;
+    height: 150px;
+    padding: 5px;
+   }
+   .b{
+    text-align: justify;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+   }
+   .cover{
+    width: 1300px;
+    height: 400px;
+    margin-top: 50px;
+    display: flex;
+    padding-left: 210px;
+   }
+.kb{
+    padding-left: 100px;
+}
+.ab{
+    padding-left: 200px;
+}
+.container{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+.row{
+    display: flex;
+}
+.quick-links{
+    display: flex;
+    color: azure;
+}
+.quick-links ul{
+    display: flex;
+} 
+.quick-items{
+    list-style: none;
+}
+.quick-items a{
+    color: azure;
+}
+.quick-items{
+    text-decoration: none;
+    padding: 0px 20px;
+    font-size: 20px;
+    color: azure;
+}
+.outer{
+    padding: 10px;
+    text-align: center;
+    font-size: 18px;
+    color: azure;
+}
+.v{
+    padding-left: 90px;
+    padding-top: 150px;
+    color: azure;
+}
+.d{
+    text-decoration: none;
+    padding-left: 500px;
+    font-size: 30px;
+    color: azure;
+}
+.r{
+    padding-left: 100px;
+    color: azure;
+}
+.n{
+    padding-left: 120px;
+    margin: 50px;
+}
+.h{
+    padding-left: 50px;
+}
+.x{
+    padding-left: 30px;
+}
+.j{
+    text-decoration: none;
+    padding: 0px 20px;
+    font-size: 20px;
+    color: azure;
+    display: flex;
+    color: azure;
+}
